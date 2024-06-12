@@ -27,13 +27,13 @@ aria-label = Toggle Menu
 
 The easy way to takeover a lease
 
-Live in New York, New Jerset and Connecticut!
+Live in Nairobi, Kiambu and Nakuru!
 
 Car, model, or brand
 placeholder = What car are you looking?
 
 Max. monthly payment
-placeholder = Add an amount in $
+placeholder = Add an amount in Ksh
 
 Make Year
 placeholder = Add a minimal make year
@@ -66,7 +66,7 @@ Hybrid
 <ion-icon name="hardware-chip-outline"></ion-icon>
 Automatic
 
-$440
+Ksh44000
 / month
 
 aria-label = Add to favourite list
@@ -84,7 +84,7 @@ Gasoline
 
 8.2km / 1-litre
 
-$350
+Ksh35000
 
 
 alt = Volkswagen T-Cross 2020
@@ -94,7 +94,7 @@ Volkswagen T-Cross
 
 5.3km / 1-litre
 
-$400
+Ksh40000
 
 
 alt = Cadillac Escalade 2020
@@ -104,7 +104,7 @@ Cadillac Escalade
 
 7.7km / 1-litre
 
-$620
+Ksh62000
 
 
 alt = BMW 4 Series GTI 2021
@@ -114,7 +114,7 @@ BMW 4 Series GTI
 
 7.6km / 1-litre
 
-$530
+Ksh53000
 
 
 alt = BMW 4 Series 2019
@@ -124,7 +124,7 @@ BMW 4 Series
 
 7.2km / 1-litre
 
-$490
+Ksh49000
 
 
 
@@ -171,7 +171,7 @@ Company
 Opening of new offices of the company
 
 <ion-icon name="time-outline"></ion-icon>
-January 14, 2022 
+April 21, 2024 
 
 <ion-icon name="chatbubble-ellipses-outline"></ion-icon>
 114
@@ -207,7 +207,7 @@ New rules for handling our cars
 
 alt = Ridex logo
 
-Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, Waydex offers its consumers an attractive and fun selection.
+Search for cheap rental cars in Nairobi. With a diverse fleet of 19,000 vehicles, Ridex offers its consumers an attractive and fun selection.
 
 Company
 
@@ -223,16 +223,16 @@ Ask a question
 Privacy policy
 Terms & conditions
 
-Neighborhoods in New York
+Neighborhoods in Nairobi
 
-Manhattan
-Central New York City
-Upper East Side
-Queens
-Theater District
-Midtown
-SoHo
-Chelsea
+Kilimani
+Nairobi CBD
+Westlands
+Lang'ata
+Muthaiga
+Nairobi West
+South C
+South B
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
@@ -241,4 +241,4 @@ Chelsea
 <ion-icon name="logo-skype"></ion-icon>
 <ion-icon name="mail-outline"></ion-icon>
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2024 Ridex. All Rights Reserved

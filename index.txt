@@ -27,7 +27,7 @@ aria-label = Toggle Menu
 
 The easy way to takeover a lease
 
-Live in Nairobi, Kiambu and Nakuru!
+Live in Nairobi!
 
 Car, model, or brand
 placeholder = What car are you looking?

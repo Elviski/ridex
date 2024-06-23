@@ -14,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("background_image.jpg");
+    background-color: lightblue;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
